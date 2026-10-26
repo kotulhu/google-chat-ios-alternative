@@ -1,0 +1,49 @@
+# Xcode user and build state
+xcuserdata/
+*.xcuserstate
+*.xcuserdatad/
+DerivedData/
+build/
+*.build/
+*.xccheckout
+*.moved-aside
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.hmap
+*.ipa
+*.dSYM
+*.dSYM.zip
+
+# Swift Package Manager
+.swiftpm/
+.build/
+Package.resolved
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# IDE/editor
+.idea/
+.vscode/
+*.swp
+*~
+
+# Local OAuth configuration and secrets
+*.local.xcconfig
+*.xcconfig.local
+GoogleService-Info.plist
+Secrets.swift
+Config.swift
+.env
+.env.*
+*.local.plist
+*Credentials*.plist
+*secret*.json
+*key*.json
+*.p8
+*.p12

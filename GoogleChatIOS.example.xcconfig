@@ -1,0 +1,3 @@
+// Copy to GoogleChatIOS.local.xcconfig and fill in your Google OAuth iOS client ID.
+GOOGLE_CLIENT_ID = YOUR_IOS_CLIENT_ID.apps.googleusercontent.com
+GOOGLE_REVERSED_CLIENT_ID = com.googleusercontent.apps.YOUR_IOS_CLIENT_ID
